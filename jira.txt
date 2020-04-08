@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><builds count="0" href="/app/rest/builds/?locator=buildType:GitPush_Test,status:FAILURE,count:1,number:88"/>
